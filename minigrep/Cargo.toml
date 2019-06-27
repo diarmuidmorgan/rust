@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Diarmuid <diarmuid.oreilly-morgan@ucdconnect.it>"]
+edition = "2018"
+
+[dependencies]
